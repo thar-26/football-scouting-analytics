@@ -2,7 +2,7 @@
 
 
 
-A data-driven player scouting system built in the style of FC Midtjylland's 
+A data-driven player scouting system
 
 analytics department. Find undervalued players, analyse performance metrics, 
 
@@ -108,17 +108,7 @@ Source: Transfermarkt via Kaggle (davidcariboo/player-scores)
 
 
 
-\## The FCM Philosophy
 
-
-
-FC Midtjylland, owned by Matthew Benham, pioneered data-driven recruitment 
-
-in Scandinavian football. Their model: find young players with strong per-90 
-
-metrics in underexplored markets before bigger clubs notice them. This tool 
-
-replicates that logic systematically across the entire database.
 
 
 
